@@ -11,6 +11,7 @@ A new Flutter project.
 ![Screenshot_20231215_120647](https://github.com/yash2851/Media_Booster/assets/130960433/34836b83-9464-451b-a032-96adad34c18b)
 
 https://github.com/yash2851/Media_Booster/assets/130960433/61833333-22f4-4167-9801-aa0127acec28
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
